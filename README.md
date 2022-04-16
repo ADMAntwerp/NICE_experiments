@@ -4,7 +4,7 @@ NICE is an algorithm to generate Counterfactual Explanations for heterogeneous t
 information from a nearest instance to speed up the search process and guarantee that an explanation will be found.
 
 ### Online Appendix
-[online_appendix.xlsx](https://github.com/DBrughmans/NICE_experiments/blob/main/online_appendix.xlsx)
+[online_appendix.xlsx](https://github.com/DBrughmans/NICE_experiments/raw/main/online_appendix.xlsx)
 
  
 ### References
